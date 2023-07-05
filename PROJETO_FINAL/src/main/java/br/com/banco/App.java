@@ -8,5 +8,4 @@ public class App {
         MenuBanco menu = new MenuBanco();
         menu.exibirMenu();
     }
-
 }
